@@ -1,0 +1,19 @@
+.flex-div {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.App {
+ display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.sliderArea {
+    width: 50%;
+}
+.Range-group {
+    display: flex;
+    flex-direction: column;
+}
